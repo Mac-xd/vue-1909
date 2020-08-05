@@ -1,0 +1,53 @@
+Vue简介：
+    中国人开发出来的（尤大大：尤雨溪），于2014年开发出来，
+在2014年底正式开源，目前的版本是Vue:3.0 beta,刚开始是用
+来写页面的一个框架，更适用于移动端
+
+beta:马上要进行发布的
+
+Vue： 
+    1、vue模板： template           写页面的
+    2、路由(页面跳转)： vue-router   写跳转
+    3、前后端交互：axios             请求数据
+    4、vuex：管理数据                管理数据
+
+Vue特点：
+    1、简单易上手 
+    2、数据驱动视图
+    3、渐进式框架（只用Vue模板）
+    4、MVVM框架
+
+MVC->MVVM
+C:controller控制器
+M:mode数据层
+V:视图层（view）
+VM:ViewModel 
+
+浏览器认识三剑客：
+    JS html css
+
+    index.vue文件里面
+
+Vue-cli:脚手架，可以搭建一个vue项目的框架，只安装一次
+必须有以下环境：
+    1、node环境   去官网下载即可
+    2、webpack环境  模块打包机   模块管理器
+        ① cnpm/npm install webpack -g 
+        ② cnpm/npm install webpack-cli -D
+    3、vue全局环境
+        ① cnpm/npm install @vue/cli -g 
+
+创建一个Vue项目：
+    1、vue create 项目名称 
+
+
+
+
+
+
+
+
+
+
+
+
